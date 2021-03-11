@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MyAPP</string>
+    <string name="Trigger">TrackeR</string>
+    <string name="login">Login</string>
+    <string name="name">EmailId</string>
+    <string name="password">Password</string>
+    <string name="create">Create</string>
+    <string name="string_name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="mainActivity">MainActivity</string>
+    <string name="signout">signout</string>
+    <string name="Register">Register</string>
+    <string name="Name">Name</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="logingo">Already have an Account? Login</string>
+    <string name="spinner">Select your Job description</string>
+    <string name="description">Tracker app assists you in your daily activity and allows you to enjoy wonderful moments of your life</string>
+    <string name="createAccount">"Dont have an account ? Register "</string>
+    <string name="select">Select Job Description</string>
+    <string name="laststep">One last step to GO !!</string>
+    <string name="phone">Verify your Phone Number</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="verify">Verify</string>
+    <string name="otp">enter OTP</string>
+    <string name="Confirm">Confirm</string>
+    <string name="verifyu">Verify your Number</string>
+    <string name="PleaseenteryourMobileNumberforVerification">Please enter your Mobile Number for Verification</string>
+    <string name="code">+91</string>
+    <string name="Generateotp">Generate OTP</string>
+    <string name="TODO">todo</string>
+    <string-array name="spinner1">
+        <item>Select Job description</item>
+        <item>Working</item>
+        <item>Student</item>
+        <item>Job Seeker</item>
+        <item>House Wife</item>
+    </string-array>
+    <string name="mayIaskyourphonenumber">May I ask your phone number?</string>
+    <string name="enteryourmobilenumber">enter your mobile number</string>
+    <string name="cntinue">Continue</string>
+    <string name="enterverificationcode">enter verification code</string>
+    <string name="waitforthecode">enter verification code</string>
+    <string name="welcome">welcome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Dairy">Personal Dairy</string>
+    <string name="reminders">Reminders</string>
+    <string name="remindes">Get Notified for your Meetings and Events</string>
+    <string name="personallog">Notes</string>
+    <string name="notesdes">Enter any Important Information here</string>
+    <string name="Groceries">Groceries</string>
+    <string name="message">SignOut</string>
+
+    <string name="channel_name">Reminder</string>
+    <string name="channel_description">channel_description</string>
+    <string name="reminder_name">Reminder Name</string>
+    <string name="time">Time</string>
+    <string name="Et_remindername">Reminder name</string>
+</resources>
